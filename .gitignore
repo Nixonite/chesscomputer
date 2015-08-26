@@ -4,3 +4,4 @@ webapp/venv/.Python
 webapp/*.txt
 webapp/*.csv
 webapp/*.pyc
+huge-dataset/

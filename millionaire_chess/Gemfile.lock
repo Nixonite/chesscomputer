@@ -26,7 +26,7 @@ GEM
       dm-core (~> 1.2.0)
     do_postgres (0.10.14)
       data_objects (= 0.10.14)
-    ferret (0.11.8.5)
+    ferret (0.11.8.6)
     rack (1.5.2)
     rack-cors (0.2.9)
     rack-protection (1.5.3)
@@ -50,3 +50,6 @@ DEPENDENCIES
   pgn!
   rack-cors
   sinatra
+
+BUNDLED WITH
+   1.10.6
